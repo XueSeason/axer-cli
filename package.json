@@ -1,0 +1,22 @@
+{
+  "name": "axer-cli",
+  "version": "0.0.1",
+  "description": "An axer cli tool.",
+  "main": "app.js",
+  "bin": {
+    "axer": "app.js"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "XueSeason",
+  "license": "MIT",
+  "dependencies": {
+    "axer": "0.0.2",
+    "commander": "^2.9.0",
+    "request": "^2.81.0"
+  }
+}
