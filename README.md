@@ -12,7 +12,7 @@ A tool for http request test.
 axer -p payload -o out.json
 ```
 
-Axer will take payload to request server ant save result to out.json.
+Axer will take payload to request server and save result to out.json.
 
 ```bash
 Usage: axer [options]
